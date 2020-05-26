@@ -32,7 +32,7 @@ $ git clone https://github.com/aerokube/windows-images.git
 $ cd windows-images
 ```
 1.2) Download **Windows 10** installation image from [Microsoft Software Download](https://www.microsoft.com/en-us/software-download/windows10ISO) website.
-1.3) Download **virtio** drivers [virtio-win-0.1.141.iso](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.141-1/virtio-win-0.1.141.iso). In the next steps we assume that you now have two files in current directory:
+1.3) Download **virtio** drivers [virtio-win-0.1.141.iso](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.141-1/virtio-win-0.1.141.iso) or you can take the last version here [virtio-win](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/). In the next steps we assume that you now have two files in current directory:
 ```
 $ ls
 virtio-win-0.1.141.iso  Win10_1809Oct_English_x32.iso
